@@ -1,4 +1,4 @@
-FROM        --platform=$TARGETOS/$TARGETARCH debian:trixie-slim
+FROM debian:trixie-slim
 
 LABEL       author="JunkyDeveloper" maintainer="junkydeveloper@gmail.com"
 
